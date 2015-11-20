@@ -1,0 +1,9 @@
+div[data-equalizer]
+{
+	background-color: blue;
+}
+
+div[data-equalizer-watch]
+{
+	background-color: green;
+}
